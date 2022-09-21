@@ -1,0 +1,16 @@
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\App.g.cs
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom_MarkupCompile.cache
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom_MarkupCompile.lref
+C:\Users\Misha\source\repos\CalculatorNotCom\bin\Debug\CalculatorNotCom.exe.config
+C:\Users\Misha\source\repos\CalculatorNotCom\bin\Debug\CalculatorNotCom.exe
+C:\Users\Misha\source\repos\CalculatorNotCom\bin\Debug\CalculatorNotCom.pdb
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom.g.resources
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom.Properties.Resources.resources
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom.exe
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\CalculatorNotCom.pdb
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\Views\CalculatorView.g.cs
+C:\Users\Misha\source\repos\CalculatorNotCom\obj\Debug\Views\CalculatorView.baml
